@@ -1,6 +1,6 @@
 # D1M-WX1-APRS-ThingSpeak
-Expanded range for light intensity, 0-999 analog mapping for APRS-IS
-Version V01 - 04/10/2020
+
+Version V01 - 04/10/2020 - Expanded range for light intensity, 0-999 analog mapping for APRS-IS
 
 Add these Libraries to the Arduino IDE:
 * BME280 by Tyler Glenn https://github.com/finitespace/BME280 - download as zip and use menu Sketch | Include Library | Add .ZIP...
