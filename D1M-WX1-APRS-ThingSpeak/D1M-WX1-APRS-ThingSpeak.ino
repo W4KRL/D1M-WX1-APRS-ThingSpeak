@@ -54,7 +54,6 @@
 #include <BME280I2C.h>               // Tyler Glenn https://github.com/finitespace/BME280
 
 // Place your configuration files in same folder as this sketch
-#include "ThingSpeak_config.h"
 #include "APRS_config.h"
 
 // *******************************************************
