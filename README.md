@@ -5,7 +5,7 @@ Version V01 - 04/10/2020 - Expanded range for light intensity
 
 ## Add these Libraries to the Arduino IDE:
 * BME280 by Tyler Glenn https://github.com/finitespace/BME280 - download as zip and use menu **Sketch | Include Library | Add .ZIP...**
-* hp_BH1750 by Stefan Armborst - use menu **Sketch | Include Libraries | Manage Libraries...** and search for hp_BH1750. The reference for this excellent library is at https://github.com/Starmbi/hp_BH1750
+* hp_BH1750 by Stefan Armborst - use menu **Sketch | Include Libraries | Manage Libraries...** and search for hp_BH1750. The reference for this excellent, but complicated, library is at https://github.com/Starmbi/hp_BH1750
 
 ## Installation
 1. Click on the **Clone or download** button and select Download ZIP. The file will download as **D1M-WX1-APRS-ThingSpeak-master.zip**. 
