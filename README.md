@@ -12,7 +12,7 @@ Version V01 - 04/10/2020 - Expanded range for light intensity
 2. Unzip the file. Change the name of the extracted folder to **D1M-WX1-APRS-ThingSpeak**. Copy this to your Arduino sketchbook folder. If you need to find your sketchbook folder, open the Arduino IDE and use menu File | Preferences. The first line tells you where the sketchbook resides on your computer. 
 3. Remember that you must add the required libraries to the Arduino IDE as noted above.
 
-## Configuration of APRS_config.h
+## Configure the APRS_config.h file
 Information unique to your weather station must be added to the *APRS_config.h* file. You must have a valid amateur radio license to use APRS.
 
 ### Information needed:
