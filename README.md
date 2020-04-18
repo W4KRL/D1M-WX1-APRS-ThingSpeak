@@ -9,7 +9,7 @@ Version V01 - 04/10/2020 - Expanded range for light intensity
 
 ## Installation
 1. Click on the **Clone or download** button and select Download ZIP. The file will download as **D1M-WX1-APRS-ThingSpeak-master.zip**. 
-2. Unzip the file. Change the name of the extracted folder to **D1M-WX1-APRS-ThingSpeak**. Copy this to your Arduino sketchbook folder. If you need to find your sketchbook folder, open the Arduino IDE and use menu File | Preferences. The first line tells you where the sketchbook resides on your computer. 
+2. Unzip the file. The unzipped folder will contain a LICENSE and README.md file and a folder **D1M-WX1-APRS-ThingSpeak**. Copy this folder to your Arduino sketchbook folder. If you need to find your sketchbook folder, open the Arduino IDE and use menu File | Preferences. The first line tells you where the sketchbook resides on your computer. 
 3. Remember that you must add the required libraries to the Arduino IDE as noted above.
 
 ## Configure the APRS_config.h file
